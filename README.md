@@ -38,6 +38,7 @@ Instala Homebrew si no lo tienes:
 
 text
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
 Instala Python con:
 
 text
@@ -84,7 +85,6 @@ Estas instrucciones te permitirán tener Python funcionando en Windows, macOS y 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 # CALENDAR-CLOCKS-ALARMS - by tradex.bot  / ENGLISH
